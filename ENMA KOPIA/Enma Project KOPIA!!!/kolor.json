@@ -1,0 +1,21 @@
+[
+    { "name": "saddlebrown", "roleId": "878729176037879839" },
+    { "name": "brown", "roleId": "878692289696915466" },
+    { "name": "crimson", "roleId": "878727155243176017" },
+    { "name": "salmon", "roleId": "878727281701449738" },
+    { "name": "orange", "roleId": "878727402417692752" },
+    { "name": "gold", "roleId": "878727497716486165" },
+    { "name": "olive", "roleId": "878727644546490508" },
+    { "name": "yellowgreen", "roleId": "878727735554478200" },
+    { "name": "chartreuse", "roleId": "878728180956020789" },
+    { "name": "green", "roleId": "878728294613274704" },
+    { "name": "lightseagreen", "roleId": "878728438276583505" },
+    { "name": "aqua", "roleId": "878728498452258826" },
+    { "name": "deepskyblue", "roleId": "878728565934395453" },
+    { "name": "blue", "roleId": "878728656653025370" },
+    { "name": "blueviolet", "roleId": "878728700873543690" },
+    { "name": "mediumpurple", "roleId": "878728865177034814" },
+    { "name": "darkviolet", "roleId": "878728952057839656" },
+    { "name": "magenta", "roleId": "878729035415449642" },
+    { "name": "pink", "roleId": "878729098862661673" }
+]

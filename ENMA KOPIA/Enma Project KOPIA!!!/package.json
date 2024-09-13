@@ -1,0 +1,21 @@
+{
+  "name": "pino-official-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehov",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.11.2",
+    "discord.js": "^13.17.1",
+    "fs": "^0.0.1-security",
+    "index.js": "^0.0.3",
+    "mongoose": "^8.6.0",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
